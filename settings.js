@@ -6,37 +6,37 @@ global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or
 
 
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
-global.botname = "Queen Anya" 
+global.botname = "《ŠªĐ SăŢäŇ》" 
 global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
 global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
-global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
+global.packname = "《ŠªĐ😔SăŢäŇ》" // sticker watermark packname //
 global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
-actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
+actiontitle = '《ŠªĐ😔SăŢäŇ》' // text who displays on the top of welcome and left message //
 global.headerText = "Anya by Pika" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             
-             global.ownernumber = ['918811074852']   // Owner number //
-             global.vcardowner = ['918811074852']   // vcard owner number //
+             global.ownernumber = ['923025395467']   // Owner number //
+             global.vcardowner = ['923025395467']   // vcard owner number //
              global.ownername = "3.69_Pika"   // Owner name //
              global.ytname = "YT: ONYXPIKA"   // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4"   // Github or insta name //
              global.location = "India, Assam, Dibrugarh"   // Location //
-             global.owner = ['918811074852','917355622763','919673141317']
-             global.ownertag = '918811074852'  // Tag number //
-             global.linkz = "https://wa.me/+918811074852"  // Theme url which will be displayed on whatsapp //
-             global.premium = ['918811074852']  // premium numbers //             
+             global.owner = ['923025395467']
+             global.ownertag = '923025395467'  // Tag number //
+             global.linkz = "https://wa.me/+923025395467"  // Theme url which will be displayed on whatsapp //
+             global.premium = ['923025395467']  // premium numbers //             
              global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark //
 
 global.prefa = ['','-']
 
 //--------Random bot name for Info section--------\\
-name16 = "𓄂⍣⃝ 🇦𝚗𝚢𝚊 𓆩×͜×𓆪ꪾ️"
-name17 = "*Λ⃝ͷ🇾Λ 𓆩×͜×𓆪ꪾ*"
-name18 = "*Λ⃝ͷʏΛ 𓆩×͜×𓆪ꪾ*"
+name16 = "《ŠªĐ😔SăŢäŇ》"
+name17 = "《ŠªĐ😔SăŢäŇ》"
+name18 = "《ŠªĐ😔SăŢäŇ》"
 
 //--------Random footer message-----------\\
-footer1 = `𓄂⍣⃝🇦𝚗𝚢𝚊ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
-footer2 = `Λ⃝ͷʏΛㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
+footer1 = `《ŠªĐ😔SăŢäŇ》`
+footer2 = `《ŠªĐ😔SăŢäŇ》
 
 //--------Left message "Nikal msg"--------\\
 nikalmsg1 = 'Ye galiye ye choubara, yaha dikhna na dubara 😚🖕🏻' 
